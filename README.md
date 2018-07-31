@@ -23,6 +23,9 @@ This folder contains sample cropped images and the corresponding annotation file
 yolo-chinese_final.weights
 These are the weights corresponding to the trained model
 
+SimHei.tff
+This is a Chinese font file used in rendering chinese characters.
+
 cates.json
 This file contains information about the frequency of occurrence of each of the character categories. 
 
