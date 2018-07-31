@@ -1,0 +1,17 @@
+10_most_frequent_characters
+1 中 13042 1764
+2 国 8831 1158
+3 大 8261 1164
+4 电 6448 920
+5 店 6076 1092
+6 路 5976 1158
+7 车 6164 754
+8 家 5922 556
+9 公 5566 760
+10 行 5287 770
+over_all
+uniq_chinese 3650
+num_image 24290 3194
+sum_chinese 760107 105530
+sum_not_chinese 18942 1119
+sum_ignore 156898 10226

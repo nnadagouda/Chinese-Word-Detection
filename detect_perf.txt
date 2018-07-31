@@ -1,0 +1,95 @@
+make: Nothing to be done for 'all'.
+make -f products/makefile
+products/detection.bin ../detection/products/detections.jsonl
+all
+   n = 52765
+ mAP = 77.0%
+  AP = 76.6%
+mAP_micro = 76.1%
+__all__       n =  52765 , recall = 75.3%
+occluded      n =   8173 , recall = 63.8%
+bgcomplex     n =  12293 , recall = 74.8%
+distorted     n =  15769 , recall = 70.2%
+raised        n =  15621 , recall = 76.8%
+wordart       n =   4545 , recall = 66.3%
+handwritten   n =    192 , recall = 57.3%
+中 86.4%
+国 87.4%
+大 84.9%
+电 85.6%
+店 93.1%
+路 91.5%
+车 82.5%
+家 83.2%
+公 83.2%
+行 89.1%
+
+large
+   n = 14238
+ mAP = 80.8%
+  AP = 80.2%
+mAP_micro = 78.6%
+__all__       n =  14238 , recall = 78.6%
+occluded      n =   3357 , recall = 65.3%
+bgcomplex     n =   5395 , recall = 78.4%
+distorted     n =   4676 , recall = 73.4%
+raised        n =   6662 , recall = 77.7%
+wordart       n =   1724 , recall = 69.0%
+handwritten   n =     68 , recall = 66.2%
+中 88.6%
+国 91.9%
+大 91.1%
+电 91.8%
+店 95.6%
+路 92.7%
+车 78.7%
+家 86.6%
+公 81.5%
+行 91.8%
+
+medium
+   n = 23761
+ mAP = 80.9%
+  AP = 80.4%
+mAP_micro = 78.3%
+__all__       n =  23761 , recall = 78.9%
+occluded      n =   3678 , recall = 66.4%
+bgcomplex     n =   5135 , recall = 75.4%
+distorted     n =   7933 , recall = 72.9%
+raised        n =   6894 , recall = 77.9%
+wordart       n =   1998 , recall = 70.5%
+handwritten   n =    102 , recall = 53.9%
+中 91.8%
+国 90.4%
+大 88.6%
+电 91.3%
+店 95.0%
+路 95.9%
+车 91.0%
+家 89.5%
+公 89.7%
+行 93.8%
+
+small
+   n = 14766
+ mAP = 68.4%
+  AP = 66.7%
+mAP_micro = 70.5%
+__all__       n =  14766 , recall = 68.5%
+occluded      n =   1138 , recall = 56.3%
+bgcomplex     n =   1763 , recall = 64.3%
+distorted     n =   3160 , recall = 61.6%
+raised        n =   2065 , recall = 72.8%
+wordart       n =    823 , recall = 52.1%
+handwritten   n =     22 , recall = 50.0%
+中 75.6%
+国 78.7%
+大 72.5%
+电 74.5%
+店 83.0%
+路 86.8%
+车 69.8%
+家 67.0%
+公 79.7%
+行 78.9%
+
