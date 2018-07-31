@@ -26,5 +26,6 @@ These are the weights corresponding to the trained model
 cates.json
 This file contains information about the frequency of occurrence of each of the character categories. 
 
-detections.jsonl
-This file contains the region proposals and detections along with the image ID.
+sample_detections.jsonl
+This file contains the region proposals and detections along with the image ID for a few sample images.
+
