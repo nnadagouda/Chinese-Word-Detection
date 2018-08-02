@@ -29,6 +29,6 @@ This is a Chinese font file used in rendering chinese characters.
 cates.json
 This file contains information about the frequency of occurrence of each of the character categories. 
 
-sample_detections.jsonl
+sample_detections.json
 This file contains the region proposals and detections along with the image ID for a few sample images.
 
